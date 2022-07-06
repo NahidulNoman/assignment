@@ -57,16 +57,15 @@ font-size: 20px;
     margin:0 auto;
     text-align: center;
     padding: 5%;
-    
-
 }
 .amount-1{
     display:inline-block;
     width: 200px;
-    padding:30px 30px;
+    padding:30px 15px;
     margin-left: 20px;
     border:2px solid black;
     font-size:20px;
+    
     
 }
 .taka{
@@ -164,6 +163,7 @@ text-align: justify;
 input{
     padding: 6px;
     border: none;
+    outline: none;
 }
 .text-type span{
     background-color: #fb5200;
