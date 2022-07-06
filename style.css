@@ -151,8 +151,9 @@
     width:50%;
 }
 .right-all p{
-text-align: justify;
+    text-align: justify;
 }
+/* section5 */
 .text-type{
     margin-bottom: 100px;
     text-align: center;
